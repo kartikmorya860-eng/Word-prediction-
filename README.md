@@ -14,14 +14,6 @@ This notebook demonstrates a simple word prediction model using an LSTM (Long Sh
 
 - word_pridiction_LSTM_model.ipynb - Main notebook containing the full workflow
 
-## Requirements
-
-Make sure you have Python installed along with the following packages:
-
-```bash
-pip install tensorflow numpy
-```
-
 ## How to run
 
 1. Open the notebook in Jupyter Notebook or JupyterLab.
